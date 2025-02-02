@@ -10,7 +10,7 @@ body{
 
 
 .container1{
-    width: 100vw;
+    width: 99vw;
     height: 95vh;
     display:grid;
     grid-template-rows: 0.25fr 4fr;
